@@ -84,8 +84,8 @@ This project is licensed under the MIT License. Feel free to modify and use it f
 
 ## Collaborators
 
-- **Richard Levi**: Firmware Developer
-- **Vem Rinji Sailas**: Circuit Designer and Electronics Technician
+- **Richard Levi Akpeh**: Firmware Developer
+- **Vem Rinji Silas**: Circuit Designer and Electronics Technician
 - **Oluwapelumi Kadeba**: Full Stack Developer
 
 ---
