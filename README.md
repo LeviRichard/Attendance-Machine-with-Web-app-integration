@@ -1,4 +1,3 @@
-```markdown
 # RFID Logger with ESP8266
 
 This project implements an RFID logging system using an ESP8266 microcontroller. It reads RFID card data, logs it to an SD card, and sends the information to a remote server for further processing and display.
